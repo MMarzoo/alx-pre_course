@@ -1,1 +1,1 @@
-Thiis is 0x01-git word
+Thiis is 0x01-git dir
